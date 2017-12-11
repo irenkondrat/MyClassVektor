@@ -1,0 +1,12 @@
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\bin\Release\TestMyClassVector.exe
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\bin\Release\TestMyClassVector.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\bin\Release\KVector.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\bin\Release\KVector.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\obj\Release\TestMyClassVector.csprojResolveAssemblyReference.cache
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\obj\Release\TestMyClassVector.exe
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\obj\Release\TestMyClassVector.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\bin\Release\logger.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\bin\Release\Newtonsoft.Json.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\bin\Release\logger.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\bin\Release\logger.dll.config
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\TestMyClassVector\TestMyClassVector\bin\Release\Newtonsoft.Json.xml
