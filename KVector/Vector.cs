@@ -87,19 +87,16 @@ namespace KVector.Vector
 
         public double AngleBetweenVectors(Vector other)
         {
-            return Math.Round((double)((this * other) /(Length* other.Length)),2);
+            return Math.Round((this * other) /(Length* other.Length),2);
         }
 
         public bool Equals(Vector other)
         {
-            if (X == other.X && Y == other.Y && Z == other.Z)
+            if (other != null && (X == other.X && Y == other.Y && Z == other.Z))
             {
                 return true;
             }
-            else
-            {
                 return false;
-            }
         }
 
         public override string ToString()

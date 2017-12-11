@@ -28,7 +28,7 @@ namespace TestMyClassVector
                     Console.WriteLine($"Сума векторiв(A+B): {resultVector.ToString()};");
                     log.Log($"Сума векторiв(A+B): {resultVector.ToString()};", LoggerLevel.Info);
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     log.Log("Вектори не вдалось додати!", LoggerLevel.Error);
                     throw;
@@ -41,7 +41,7 @@ namespace TestMyClassVector
                     Console.WriteLine($"Рiзниця векторiв(A-B): {resultVector.ToString()};");
                     log.Log($"Рiзниця векторiв(A-B): {resultVector.ToString()};", LoggerLevel.Info);
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     log.Log("Вектори не вдалось відняти!", LoggerLevel.Error);
                     throw;
@@ -54,7 +54,7 @@ namespace TestMyClassVector
                     Console.WriteLine($"Добуток векторiв(A*B): {resultVector};");
                     log.Log($"Добуток векторiв(A*B): {resultVector};", LoggerLevel.Info);
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     log.Log("Вектори не вдалось помножити!", LoggerLevel.Error);
                     throw;
@@ -67,7 +67,7 @@ namespace TestMyClassVector
                     Console.WriteLine($"Скалярний добуток векторiв(AxB): {resultVector};");
                     log.Log($"Скалярний добуток векторiв(AxB):  {resultVector};", LoggerLevel.Info);
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     log.Log("Не вдалось знайти скалярний добуток векторiв!", LoggerLevel.Error);
                     throw;
@@ -86,7 +86,7 @@ namespace TestMyClassVector
                     Console.WriteLine($"Змiшаний добуток векторiв(AxBxC): {resultVector};");
                     log.Log($"Змiшаний добуток векторiв(AxBxC): {resultVector};", LoggerLevel.Info);
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     log.Log("Не вдалось знайти змiшаний добуток векторiв!", LoggerLevel.Error);
                     throw;
@@ -98,7 +98,7 @@ namespace TestMyClassVector
                     Console.WriteLine($"Кут мiж векторами А i B: {resultVector};");
                     log.Log($"Кут мiж векторами А i B:: {resultVector};", LoggerLevel.Info);
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     log.Log("Не вдалось знайти довжину кута мiж векторами А i B!", LoggerLevel.Error);
                     throw;

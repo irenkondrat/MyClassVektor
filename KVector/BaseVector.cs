@@ -33,15 +33,23 @@ namespace KVector
             return sum;
         }
 
+        protected static BaseVector Multiply(BaseVector vectors, int values)
+        {
+            BaseVector resultVector = new BaseVector(vectors.Coordinates.Length);
+
+            for (var i = 0; i < vectors.Coordinates.Length; ++i)
+            {
+                resultVector.Coordinates[i] = values * vectors.Coordinates[i];
+            }
+            return resultVector;
+        }
+
         protected static BaseVector Subtraction(List<BaseVector> vectors, int countCoordinate)
         {
             BaseVector resultVector = new BaseVector(countCoordinate);
             for (var i = 0; i < countCoordinate; ++i)
             {
-                foreach (var t in vectors)
-                {
-                    resultVector.Coordinates[i] -= t.Coordinates[i];
-                }
+                    resultVector.Coordinates[i] = vectors[0].Coordinates[i]- vectors[1].Coordinates[i];
             }
             return resultVector;
         }
