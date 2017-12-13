@@ -3,3 +3,8 @@ D:\Epam Labs\FirstPracticalTasks\MyClassVektor\KVector\bin\Release\KVector.pdb
 D:\Epam Labs\FirstPracticalTasks\MyClassVektor\KVector\obj\Release\KVector.csprojResolveAssemblyReference.cache
 D:\Epam Labs\FirstPracticalTasks\MyClassVektor\KVector\obj\Release\KVector.dll
 D:\Epam Labs\FirstPracticalTasks\MyClassVektor\KVector\obj\Release\KVector.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\MyClassVektor\KVector\obj\Release\KVector.csprojResolveAssemblyReference.cache
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\MyClassVektor\KVector\obj\Release\KVector.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\MyClassVektor\KVector\obj\Release\KVector.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\MyClassVektor\KVector\bin\Release\KVector.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\MyClassVektor\KVector\bin\Release\KVector.pdb
